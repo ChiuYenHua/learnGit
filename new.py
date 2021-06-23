@@ -1,5 +1,8 @@
 import sys
 
+def use():
+    return True
+
 main():
   if 1+2>2:
     sys.exit(0)
