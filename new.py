@@ -1,6 +1,8 @@
 import sys
 
 def use():
+    return False
+def again():
     return True
 
 main():
